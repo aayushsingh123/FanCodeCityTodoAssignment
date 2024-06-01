@@ -1,5 +1,4 @@
 # FanCodeCityTodoAssignment
-# FanCode Task Automation
 
 This project automates the process of checking if users from the city `FanCode` have more than half of their todo tasks completed. The `FanCode` city is identified by latitudes between (-40 to 5) and longitudes between (5 to 100).
 
